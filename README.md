@@ -1,4 +1,4 @@
-# [Live Demo](https://darling-croquembouche-8b0c99.netlify.app/)
+# [Live Demo](https://crypto-currency-nc.netlify.app/)
 
 # Getting Started with Create React App
 
