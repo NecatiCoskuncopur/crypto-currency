@@ -1,4 +1,4 @@
-# [Live Demo](http://localhost:3000)
+# [Live Demo](https://crypto-currency-nc.netlify.app/)
 
 # Getting Started with Create React App
 
