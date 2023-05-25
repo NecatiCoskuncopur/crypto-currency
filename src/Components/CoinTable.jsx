@@ -33,11 +33,11 @@ const CoinTable = ({ data }) => {
       ),
     },
     {
-      title: 'Name',
+      title: 'Ad',
       dataIndex: 'name',
     },
     {
-      title: 'Price',
+      title: 'Fiyat',
       dataIndex: 'current_price',
       render: (current_price) => (
         <CurrencyFormat
@@ -50,7 +50,7 @@ const CoinTable = ({ data }) => {
       ),
     },
     {
-      title: 'Change (24h)',
+      title: 'Fiyat Değişimi (24h)',
       dataIndex: 'price_change_24h',
       hidden: isTablet,
       render: (price_change_24h) => (
@@ -70,7 +70,7 @@ const CoinTable = ({ data }) => {
       ),
     },
     {
-      title: 'Change (24h)%',
+      title: 'Fiyat Değişimi (24h)%',
       dataIndex: 'price_change_percentage_24h',
       hidden: isTablet,
       render: (price_change_percentage_24h) => (
@@ -82,7 +82,7 @@ const CoinTable = ({ data }) => {
       ),
     },
     {
-      title: 'Market Cap',
+      title: 'Piyasa Değeri',
       dataIndex: 'market_cap',
       hidden: isLaptop,
       render: (market_cap) => (
