@@ -38,6 +38,12 @@ yarn start
 
 ![HomePageList](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/5f644280-febe-40df-af4c-8cee55c4b48d)
 ![HomePageCard](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/67af7465-9907-4075-a834-e546761d7bd8)
-![ListMobile](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/c82df791-600b-4834-996a-b7ad86a116c6)
-![CardMobile](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/9a8e73c3-c767-4b80-99d6-8bd611db2032)
+<p float="left">
+  <img src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/ba33a4bf-1214-480c-b04d-2e24fe0fa42d" width="50%" />
+  <img src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/9a8e73c3-c767-4b80-99d6-8bd611db2032" width="50%" />
+</p>
+
+
+
+
 
