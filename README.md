@@ -1,72 +1,43 @@
-# [Live Demo](https://crypto-currency-nc.netlify.app/)
+# Crypto Currency
 
-# Getting Started with Create React App
+## ➡️ [Live Demo](https://crypto-currency-nc.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :key: Get API Key 
 
-## Available Scripts
+- [https://www.coingecko.com/en/api](https://www.coingecko.com/en/api)
 
-In the project directory, you can run:
+## :computer: Setup
 
-### `yarn start`
+1. Clone the repository and install its features.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+yarn install
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Use the project locally (localhost).
 
-### `yarn test`
+```
+yarn start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :fire: Technologies and Libraries
 
-### `yarn build`
+:heavy_check_mark: React.js <br />
+:heavy_check_mark: React Hooks <br />
+:heavy_check_mark: [Axios](https://github.com/axios/axios) <br />
+:heavy_check_mark: [Ant Design](https://github.com/ant-design/ant-design) <br />
+:heavy_check_mark: [React Icons](https://react-icons.github.io/react-icons/) <br />
+:heavy_check_mark: [Styled Components](https://styled-components.com) <br />
+:heavy_check_mark: [React Responsive](https://github.com/yocontra/react-responsive) <br />
+:heavy_check_mark: [React Currency Format](https://github.com/mohitgupta8888/react-currency-format) <br />
+:heavy_check_mark: [React Number Format](https://github.com/s-yadav/react-number-format) <br />
+:heavy_check_mark: [React Card Flip](https://github.com/AaronCCWong/react-card-flip) <br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![HomePageList](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/5f644280-febe-40df-af4c-8cee55c4b48d)
+![HomePageCard](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/67af7465-9907-4075-a834-e546761d7bd8)
+![ListMobile](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/c82df791-600b-4834-996a-b7ad86a116c6)
+![CardMobile](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/9a8e73c3-c767-4b80-99d6-8bd611db2032)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
