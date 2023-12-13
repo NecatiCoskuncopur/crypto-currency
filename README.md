@@ -39,18 +39,10 @@ yarn start
 ![HomePageList](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/5f644280-febe-40df-af4c-8cee55c4b48d)
 ![HomePageCard](https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/67af7465-9907-4075-a834-e546761d7bd8)
 <p float="left">
-  <img class='img' src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/cd8979a2-1b67-4e0b-b3b5-2e1a603e6d81"  />
-  <img class='img' src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/92f4ffdf-688b-43c1-ae21-cd69ec2013fc"   />
+  <img width='49%' height='765px' display='inline-block' src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/cd8979a2-1b67-4e0b-b3b5-2e1a603e6d81"  />
+  <img width='49%' height='765px' display='inline-block' class='img' src="https://github.com/NecatiCoskuncopur/crypto-currency/assets/85507269/92f4ffdf-688b-43c1-ae21-cd69ec2013fc"   />
 </p>
 
-<style>
-
-  .img {
-	width: 49%;
-    display: inline-block;
-    height: 765px;
-  }
-</style>
 
 
 
