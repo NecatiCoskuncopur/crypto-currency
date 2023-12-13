@@ -44,10 +44,11 @@ yarn start
 </p>
 
 <style>
+
   .img {
-	width: '49%';
+	width: 49%;
     display: inline-block;
-    height: '765px';
+    height: 765px;
   }
 </style>
 
